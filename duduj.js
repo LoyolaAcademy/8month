@@ -16,7 +16,7 @@ const febHolidays = [
     "You are the most special person in my life🥰",
     "I don't want to lose you",
     "And trust me I dont want anyone else",
-    "There's no one better than you❤️",
+    "There's no one better than you❤",
     "You're the best Dudu!!",
     "Or should I say, I am madly in Love with you",
     "Wow!! Time flies, ",
@@ -37,7 +37,8 @@ const febHolidays = [
 "Rendo Bhaagamundhani",
 "RChaati Cheppina",
 "Chinni Praanamaa",
-    "But anyways, Happy 8th month my sweet little girlfriend(wife🤭)",
+    "But anyways,",
+    "Happy 8th month my sweet little girlfriend(wife🤭)",
     "You're the love of my life,",
     "I Love You So much❤️"
   ];
