@@ -1,6 +1,6 @@
 const febHolidays = [
-    "Dear Dudu- Sandhya,",
-    "First of all, I love you❤️",
+    "Dear Sandhya,",
+    "First of all, I am sorry",
     "You're my everything",
     "You are my soulmate",
     "And of course...",
@@ -11,7 +11,6 @@ const febHolidays = [
     "funniest,",
     "sweetest girl I ever met.",
     "In one word, you're just perfect.",
-    "I'm the happiest man alive🥰",
     "I'm so grateful I met you",
     "I'll always do my ",
     "best to keep you happy🥺",
@@ -22,21 +21,17 @@ const febHolidays = [
     "I dont want anyone else",
     "There's no one better than you",
     "You're the best Dudu!!",
-    "Or should I say, "
-    "I am madly in Love with you",
     "Wow! Time flies so fast, ",
 "we've already been ", 
     "together for 8 months",
     "There were many problems ,",
-    "but we overcame ",
-    "most of them",
+    "but we overcame them",
     "and it made me realised",
     "how important",
 " you are in my life❤️",
   "Though I dont believe in ",
 "Recarnation or PunarJanam",
 " But-,",
-  "This for you,",
     "Naa Jeevithaaniki",
     "Rendo Prayaanamundhani",
     "Dhaari Veysinaa❤️",
@@ -48,8 +43,15 @@ const febHolidays = [
     "But anyways,",
     "Happy 8th month my sweet ",
     "little girlfriend(wife🤭)",
-    "You're the love of my life,",
-    "I Love You So much❤️"
+    "I Love You So much❤️",
+    "I am always afraid",
+"of losing you.",
+"I fear that the dreams",
+"that I have seen with you", 
+"will never come true",
+"I am sorry for ",
+"last 2 days for being",
+"rude and not understanding you"
 
   ];
   const ulEl = document.querySelector("ul");
