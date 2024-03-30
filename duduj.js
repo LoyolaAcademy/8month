@@ -50,13 +50,7 @@ const febHolidays = [
     "little girlfriend(wife🤭)",
     "You're the love of my life,",
     "I Love You So much❤️"
-"I am always afraid about us",
-    ",I fear that the dreams",
-    "I have seen with will never",
-    "come true. "
-"I am sorry for last 2 days",
-    ",for being rude and",
-    "not understanding you"
+
   ];
   const ulEl = document.querySelector("ul");
   const d = new Date();
